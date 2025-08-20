@@ -105,11 +105,7 @@ project-root/
 ├─ data/                      # dataset (not included by default) -> place creditcard.csv here
 │  └─ creditcard.csv
 ├─ Project_Credit_Card_Fraud_Detection.ipynb
-├─ requirements.txt
-├─ README.md
-├─ LICENSE
-├─ models/                    # (optional) saved trained models
-└─ notebooks/                 # (optional) supporting notebooks
+├─ README.md                
 ```
 
 Adjust paths in the notebook if you move files.
@@ -147,3 +143,4 @@ If you want me to change the README (shorter, longer, or tailored for a portfoli
 
 **Short conclusion:**
 This repository contains a reproducible pipeline for credit card fraud detection with clear steps for data handling, modeling, evaluation, and reproducibility. Use the notebook to explore, train, and evaluate models; then add improvements as desired.
+
