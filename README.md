@@ -134,13 +134,10 @@ kaggle
 * You can improve this project by adding a small web demo (Flask or Streamlit) that lets a user upload a transaction and get a prediction.
 * Consider experimenting with cost-sensitive learning, anomaly detection methods, or feature attribution (SHAP) to explain model decisions.
 
-## License & Contact
-
-This project is released under the **MIT License** — include a `LICENSE` file in the repository if you want to apply it.
-If you want me to change the README (shorter, longer, or tailored for a portfolio), tell me and I will update it.
 
 ---
 
 **Short conclusion:**
 This repository contains a reproducible pipeline for credit card fraud detection with clear steps for data handling, modeling, evaluation, and reproducibility. Use the notebook to explore, train, and evaluate models; then add improvements as desired.
+
 
