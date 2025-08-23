@@ -17,7 +17,6 @@ This project detects fraudulent credit card transactions using machine learning.
 6. [How to run](#how-to-run)
 7. [Repository structure](#repository-structure)
 8. [Requirements](#requirements)
-9. [License & Contact](#license--contact)
 
 ---
 
@@ -139,5 +138,6 @@ kaggle
 
 **Short conclusion:**
 This repository contains a reproducible pipeline for credit card fraud detection with clear steps for data handling, modeling, evaluation, and reproducibility. Use the notebook to explore, train, and evaluate models; then add improvements as desired.
+
 
 
